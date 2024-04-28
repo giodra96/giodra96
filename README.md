@@ -1,7 +1,9 @@
 👋 Hi, I’m @giodra96
 
 👀 I'm interested in AI & Data Science, particularly focusing on Data Engineering.
+
 🌱 I'm currently learning various tools and frameworks such as Spark, Airflow, and Kafka!
+
 📫 How to reach me:
   - 📩 giorgio.dramis96@gmail.com
   - 📞 3291973362
