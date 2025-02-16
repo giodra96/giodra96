@@ -7,7 +7,6 @@
 📫 How to get in touch:
   - 🌐 https://giorgiodramis.com
   - 📩 giorgio.dramis96@gmail.com
-  - 📞 3291973362
   - 🔗 https://linkedin.com/in/giorgiodramis
     
 💡 Fun fact: I started my career with data back in high school, but then shifted my focus to management engineering because I wasn't fully passionate about development. However, as they say, some loves never truly fade away, and now I find myself drawn back to the world of data.
