@@ -2,7 +2,7 @@
 
 👀 I'm a Data Scientist
 
-✈️ Take a look to what I'm doing in my free time: JourMe Project https://jourme.app/
+✈️ Take a look to what I'm doing in my free time: JourMe Project (https://jourme.app/)
 
 ✍️ I've been writing about my professional journey on giorgiodramis.com since December 2024
 
