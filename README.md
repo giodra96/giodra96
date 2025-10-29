@@ -1,6 +1,4 @@
-👋 Hi, I’m @giodra96
-
-👀 I'm a Data Scientist
+👋 Hi, I’m @giodra96 and I'm a Data Scientist
 
 ✈️ Take a look at what I'm doing in my free time: the JourMe Project (https://jourme.app/)
 
