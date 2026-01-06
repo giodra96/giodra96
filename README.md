@@ -1,6 +1,6 @@
 👋 Hi, I’m @giodra96 and I'm a Data Scientist
 
-✈️ Take a look at what I'm doing in my free time: the JourMe Project (https://jourme.app/)
+✈️ Co-founder & CEO @ JourMe (https://jourme.app/)
 
 ✍️ I've been writing about my professional journey on giorgiodramis.com since December 2024
 
