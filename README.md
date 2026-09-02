@@ -1,13 +1,10 @@
-👋 Hi, I’m @giodra96 and I'm a Data Scientist
+👋 Hi, I’m @giodra96 and I'm a MLE
 
 ✈️ Co-founder & CEO @ JourMe (https://jourme.app/)
-
-✍️ I've been writing about my professional journey on giorgiodramis.com since December 2024
 
 📫 How to get in touch:
   - 📩 giorgio.dramis96@gmail.com
   - 🔗 https://linkedin.com/in/giorgiodramis
-  - 🌐 https://giorgiodramis.com
     
 💡 Fun fact: I started my career with data back in high school, but then shifted my focus to process engineering because I wasn't fully passionate about development. However, as they say, some loves never truly fade away, and now I find myself drawn back to the world of data
 <!---
