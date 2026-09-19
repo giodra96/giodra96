@@ -1,5 +1,3 @@
-👋 Hi, I’m @giodra96 and I'm a MLE
-
 ✈️ Co-founder & CEO @ JourMe (https://jourme.app/)
 
 📫 How to get in touch:
