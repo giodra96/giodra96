@@ -5,6 +5,7 @@
   - 🔗 https://linkedin.com/in/giorgiodramis
     
 About me
+
 I love backpacking trips. 
 My step counter is very demanding when I leave, probably to balance the time spent in front of the PC.
 Avid Magic: The Gathering player.
