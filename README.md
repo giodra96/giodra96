@@ -1,4 +1,4 @@
-✈️ Co-founder & CEO @ JourMe (https://jourme.app/)
+✈️ Co-founder @ JourMe (https://jourme.app/)
 
 📫 How to get in touch:
   - 📩 giorgio.dramis96@gmail.com
