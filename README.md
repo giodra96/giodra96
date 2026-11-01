@@ -1,6 +1,6 @@
-✈️ Co-founder @ JourMe (jourme.app)
+✈️ Co-founder @ JourMe (https://jourme.app)
 
-👀 Into TCGs? Check out Scrappy, my card search bot! (t.me/ScrappyCardsBot)
+👀 Into TCGs? Check out Scrappy, my card search bot! (https://t.me/ScrappyCardsBot)
 
 📫 How to get in touch:
   - 📩 giorgio.dramis96@gmail.com
