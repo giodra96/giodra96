@@ -1,4 +1,5 @@
 ✈️ Co-founder @ JourMe (jourme.app)
+
 👀 Into TCGs? Check out Scrappy, my card search bot! (t.me/ScrappyCardsBot)
 
 📫 How to get in touch:
